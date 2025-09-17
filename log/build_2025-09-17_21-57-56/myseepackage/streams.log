@@ -1,0 +1,25 @@
+[0.021s] Invoking command in '/home/unnathics/ros2_ws/build/myseepackage': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/unnathics/ros2_ws/build/myseepackage -- -j4 -l4
+[0.086s] Invoked command in '/home/unnathics/ros2_ws/build/myseepackage' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/unnathics/ros2_ws/build/myseepackage -- -j4 -l4
+[0.102s] Invoking command in '/home/unnathics/ros2_ws/build/myseepackage': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/unnathics/ros2_ws/build/myseepackage
+[0.121s] -- Install configuration: ""
+[0.121s] -- Execute custom install script
+[0.122s] -- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage//launch/spawnlaunch.py
+[0.122s] -- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage//urdf/snake_bot.urdf
+[0.122s] -- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage//urdf/snake_bot.xacro
+[0.122s] -- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage//config/snake_bot_controllers.yaml
+[0.122s] -- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/ament_index/resource_index/package_run_dependencies/myseepackage
+[0.122s] -- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/ament_index/resource_index/parent_prefix_path/myseepackage
+[0.122s] -- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage/environment/ament_prefix_path.sh
+[0.122s] -- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage/environment/ament_prefix_path.dsv
+[0.123s] -- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage/environment/path.sh
+[0.123s] -- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage/environment/path.dsv
+[0.123s] -- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage/local_setup.bash
+[0.123s] -- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage/local_setup.sh
+[0.123s] -- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage/local_setup.zsh
+[0.123s] -- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage/local_setup.dsv
+[0.123s] -- Symlinking: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage/package.dsv
+[0.137s] -- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/ament_index/resource_index/packages/myseepackage
+[0.138s] -- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage/cmake/myseepackageConfig.cmake
+[0.138s] -- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage/cmake/myseepackageConfig-version.cmake
+[0.138s] -- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage/package.xml
+[0.140s] Invoked command in '/home/unnathics/ros2_ws/build/myseepackage' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/unnathics/ros2_ws/build/myseepackage

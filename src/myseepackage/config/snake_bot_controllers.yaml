@@ -1,0 +1,106 @@
+controller_manager:
+  ros__parameters:
+    update_rate: 100
+
+    joint_state_broadcaster:
+      type: joint_state_broadcaster/JointStateBroadcaster
+
+    # Individual joint controllers for each joint
+    snake_body_1_aux_joint_controller:
+      type: effort_controllers/JointPositionController
+      joint: snake_body_1_aux_joint
+      gains:
+        p: 50.0
+        i: 0.0
+        d: 1.0
+    snake_body_1_joint_controller:
+      type: effort_controllers/JointPositionController
+      joint: snake_body_1_joint
+      gains:
+        p: 50.0
+        i: 0.0
+        d: 1.0
+    snake_body_2_aux_joint_controller:
+      type: effort_controllers/JointPositionController
+      joint: snake_body_2_aux_joint
+      gains:
+        p: 50.0
+        i: 0.0
+        d: 1.0
+    snake_body_2_joint_controller:
+      type: effort_controllers/JointPositionController
+      joint: snake_body_2_joint
+      gains:
+        p: 50.0
+        i: 0.0
+        d: 1.0
+    snake_body_3_aux_joint_controller:
+      type: effort_controllers/JointPositionController
+      joint: snake_body_3_aux_joint
+      gains:
+        p: 50.0
+        i: 0.0
+        d: 1.0
+    snake_body_3_joint_controller:
+      type: effort_controllers/JointPositionController
+      joint: snake_body_3_joint
+      gains:
+        p: 50.0
+        i: 0.0
+        d: 1.0
+    snake_body_4_aux_joint_controller:
+      type: effort_controllers/JointPositionController
+      joint: snake_body_4_aux_joint
+      gains:
+        p: 50.0
+        i: 0.0
+        d: 1.0
+    snake_body_4_joint_controller:
+      type: effort_controllers/JointPositionController
+      joint: snake_body_4_joint
+      gains:
+        p: 50.0
+        i: 0.0
+        d: 1.0
+    snake_body_5_aux_joint_controller:
+      type: effort_controllers/JointPositionController
+      joint: snake_body_5_aux_joint
+      gains:
+        p: 50.0
+        i: 0.0
+        d: 1.0
+    snake_body_5_joint_controller:
+      type: effort_controllers/JointPositionController
+      joint: snake_body_5_joint
+      gains:
+        p: 50.0
+        i: 0.0
+        d: 1.0
+    snake_body_6_aux_joint_controller:
+      type: effort_controllers/JointPositionController
+      joint: snake_body_6_aux_joint
+      gains:
+        p: 50.0
+        i: 0.0
+        d: 1.0
+    snake_body_6_joint_controller:
+      type: effort_controllers/JointPositionController
+      joint: snake_body_6_joint
+      gains:
+        p: 50.0
+        i: 0.0
+        d: 1.0
+    snake_body_7_aux_joint_controller:
+      type: effort_controllers/JointPositionController
+      joint: snake_body_7_aux_joint
+      gains:
+        p: 50.0
+        i: 0.0
+        d: 1.0
+    snake_body_7_joint_controller:
+      type: effort_controllers/JointPositionController
+      joint: snake_body_7_joint
+      gains:
+        p: 50.0
+        i: 0.0
+        d: 1.0

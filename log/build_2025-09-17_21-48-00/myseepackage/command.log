@@ -1,0 +1,4 @@
+Invoking command in '/home/unnathics/ros2_ws/build/myseepackage': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/unnathics/ros2_ws/build/myseepackage -- -j4 -l4
+Invoked command in '/home/unnathics/ros2_ws/build/myseepackage' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/unnathics/ros2_ws/build/myseepackage -- -j4 -l4
+Invoking command in '/home/unnathics/ros2_ws/build/myseepackage': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/unnathics/ros2_ws/build/myseepackage
+Invoked command in '/home/unnathics/ros2_ws/build/myseepackage' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/unnathics/ros2_ws/build/myseepackage

@@ -1,0 +1,21 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage//launch/spawnlaunch.py
+-- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage//urdf/snake_bot.urdf
+-- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage//urdf/snake_bot.xacro
+-- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage//config/snake_bot_controllers.yaml
+-- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/ament_index/resource_index/package_run_dependencies/myseepackage
+-- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/ament_index/resource_index/parent_prefix_path/myseepackage
+-- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage/environment/path.sh
+-- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage/environment/path.dsv
+-- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage/local_setup.bash
+-- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage/local_setup.sh
+-- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage/local_setup.zsh
+-- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage/local_setup.dsv
+-- Symlinking: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage/package.dsv
+-- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/ament_index/resource_index/packages/myseepackage
+-- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage/cmake/myseepackageConfig.cmake
+-- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage/cmake/myseepackageConfig-version.cmake
+-- Up-to-date symlink: /home/unnathics/ros2_ws/install/myseepackage/share/myseepackage/package.xml
